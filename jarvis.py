@@ -1,5 +1,12 @@
+#may need to run the following installs:
+#pip install SpeechRecognition
+#pip install pyttsx3
+#pip install Wikipedia
 
-# main.py
+#may also require:
+#pip install pywin32
+#pip install PyAudio
+
 import speech_recognition as sr
 import pyttsx3
 import wikipedia
